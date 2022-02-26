@@ -1,0 +1,134 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An epistle written in the movings of Gods holy spirit unto the elect people of God every where.</title>
+            <author>Aynsloe, John, d. 1693.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75838</idno>
+            <idno type="STC">Wing A4294</idno>
+            <idno type="STC">ESTC R170405</idno>
+            <idno type="EEBO-CITATION">45789143</idno>
+            <idno type="OCLC">ocm 45789143</idno>
+            <idno type="VID">172456</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75838)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172456)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2630:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An epistle written in the movings of Gods holy spirit unto the elect people of God every where.</title>
+                  <author>Aynsloe, John, d. 1693.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1664]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Cambridge County Gaol ... 1664. John Aynsloe.</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:172456:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 16 -->
+            <head>An Epiſtle written in the movings of Gods holy Spirit unto the Elect People of God every where.</head>
+            <p>DEar Friends, Brethren &amp; Siſters of the birth of the morning of the day which is ſprung from on high, which hath vi<g ref="char:EOLhyphen"/>ſited us; unto you all is the breathing of my Fathers love through my veſſell; &amp; in the tenderneſſe of my heart, &amp; moving of the ſpirit of life do I dearly ſalute every one of you, having you all freſh in my mind before the Lord, wiſhing well unto you all, as my own ſoul, and deſiring of the Lo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d that ye may never want the enjoyment of his life and love, which at this time I am filled withall towards you, and which I feel is ſtill in ſto<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e for y<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u and all that are not yet brought home, my ſoul travelleth for them and you, that all may be brought into the reſt, and alſo continue in it, for great ſhakings of heart may ſtill be to come, to try every birth, that that which is born of God may only ſtand and be approved in his ſight, and all falſe births will fail and fall before the Lord, and will not ſtand in the day of try<g ref="char:EOLhyphen"/>al, though it may make a great ſhew for a time, and boaſt it ſelf in its many ſufferings, and conqueſts, and glory over others, with its many words and great ſhew, yet it will come ſhort of the bleſſing, and the inheritance of God is not for it: therefore dear friends, I warn you all in Gods fear and holy awe, that ye watch diligently over your own hearts, that ſuch a birth be not found amongſt you, for that is it will betray the juſt for ſomething of this world therefore beware of it, for it ſeeks it ſelf and its own honour, and not the good of all, nor Gods glory; by this ye ſhall know it, it breathes downwards, and will ſay, ſave thy ſelf; but the pure holy gentle Seed and birth of the holy God, its cry is unto him, and its eye is towards him, and it ſayes, ſhall I not drink the cup which my heavenly Father giveth me? and ſhall I not follow the Lamb through the great tribulation, and lie down in the will of the heavenly Father, and be content in all conditions, and it murmures not at any tryal, but chearfully and joyfully paſſes through all, rejoicing that it is found worthy to bear his teſtimony, and that it hath a croſſe to bear, though it meet with a Crown of thorns, from the world, and ſpittings and mockings from the men thereof; yet the preſent enjoyment of its God, in the midſt of them makes up all, and conſtrains it to ſay (in the ſtrength of his love) all theſe things is but little; in compariſon of what thou art to me, how can I anſwer thy love, oh my God! ſo it wearies not in its journey, nor faints not by the way, becauſe the Lord is its portion, and the place of of its reſt; oh dear friends feel this birth in your hearts which breathes upwards, and ſeeks thoſe things which are above, and is not intangled with the things of this world, with the cares of it, and fears of it, but caſts its cares upon God, and believes beyond all, and its faith removes the mountains, and it hath the evidence thereof in its ſelf, and is of <hi>Abraham,</hi> For it ſtaggers not concern<g ref="char:EOLhyphen"/>ing the promiſe, though <hi>Sarahs</hi> womb be dry, this is the birth that my life travelleth for, and that which my God will ſtand by, and deliver out of all its afflictions, and will raiſe it up in the brightneſſe of his ariſings and glory of his appearance, and bleſſed and happy are they that hath part in this firſt reſurrection, for over them the ſecond death ſhall have no power, and they ſhall be reckoned in the number of Gods elect, which cannot be deceived, &amp; they are builded on that rock which the gate<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of hell cannot prevail againſt, but all others ſhall beſhatter'd &amp; ſcatter'd, the mouth of the Lord hath ſpoken it, &amp; it muſt ſhort<g ref="char:EOLhyphen"/>ly come to paſſe, therefore be awakened, oh every one of ye who profeſſe the name of the Lord, and put on your beautiful garments (which is the covering of Gods holy pure ſpirit) and meet the Bridegroom; prepare, prepare to meet him, for in power and great glory is he come, and coming, and every eye ſhall ſee him, but the ſlumbering ſpirit ſhall be ſhut out; but the bride that is prepared for her husband ſhall enter; for now is the Kingdome of Heaven like unto ten Virgins, there<g ref="char:EOLhyphen"/>fore it is in my heart, from the mighty God, to warn all to watch and be diligent, that none loſe their Crown, and miſſe of their reſt after ſo long a travell; for ſurely my cry is, Lord ſave thy people, that none of them periſh in the wilderneſſe, but that <hi>Ioſuah</hi>'s ſpirit may be found amongſt them, that all may paſſe the River <hi>Iordan;</hi> even <hi>So be it,</hi> Amen, ſaith your Brother in the tribulation, kingdome, and Patience of our Lord Jeſus Chriſt.</p>
+            <closer>
+               <signed>JOHN AYNSLOE.</signed>
+               <dateline>
+                  <hi>Cambridge</hi> County Gaol, <date>the 13. of the firſt Moneth, 1664.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
